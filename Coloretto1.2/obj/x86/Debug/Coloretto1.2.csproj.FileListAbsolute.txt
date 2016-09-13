@@ -1,0 +1,16 @@
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\bin\Debug\Coloretto1.2.exe.config
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\bin\Debug\Coloretto1.2.exe
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\bin\Debug\Coloretto1.2.pdb
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Game.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Home.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Parametres_couleur.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Parametres_nom.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Parametre_Score.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Properties.Resources.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Regles.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Score_game.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1._2.Score_manche.resources
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1.2.exe
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1.2.pdb
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1.2.csproj.GenerateResource.Cache
+C:\Users\Work\Dropbox\BTS\SI4 Prog\Coloretto V2\Coloretto1.2\Coloretto1.2\obj\x86\Debug\Coloretto1.2.csprojResolveAssemblyReference.cache

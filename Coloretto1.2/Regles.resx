@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="rchtBodyRegles.Text" xml:space="preserve">
+    <value>MISE EN PLACE
+
+Chaque joueur prend une carte d’aide de jeu.
+Les joueurs décident s’ils utiliseront pour cette partie les tables de score du côté gris ou du côté beige des cartes d’aide de jeu.
+Pour la première partie, mieux vaut utiliser le côté beige.
+À 3 à 5 joueurs, jouez avec les cartes « rangée » beiges. Placez sur la table, l’une au dessus de l’autre, une carte
+« rangée » par joueur. Les cartes « rangée » restantes sont remises dans la boite et ne seront pas utilisées dans la partie.
+Les cartes restantes sont mélangées et placées en une pioche, face cachée, au centre de la table.
+On prend 15 cartes de la pioche, au dessus desquelles on pose la carte « dernier tour », puis on place le reste de la pioche au dessus.
+l'Oya (le joueur qui commence) est le joueur portant le plus de couleur sur lui.
+Les instructions qui suivent s’appliquent au jeu à 3, 4 ou 5 joueurs. Les modifications pour le jeu à 2 joueurs sont décrites à la fin de ces règles.
+
+DÉROULEMENT DE LA PARTIE
+
+Les joueurs jouent à tour de rôle, en sens horaire.
+À son tour, un joueur doit effectuer l’une des actions suivantes:
+A. piocher et placer une carte
+ou bien
+B. prendre une rangée de cartes
+C’est ensuite au tour du joueur assis à sa gauche.
+Lorsque chaque joueur a pris une rangée de cartes, la manche est terminée et on passe à la manche suivante.
+A. Piocher et placer une carte
+Le joueur prend la première carte de la pioche et la place, face visible, à côté d'une des cartes « rangée ».
+
+
+
+
+PRINCIPE DU JEU
+
+Les joueurs prennent des cartes placées sur la table. Tout au long de la partie, chacun essaie de se spécialiser dans quelques couleurs, puisqu’à la fin de la partie seules trois couleurs lui feront gagner des points, les autres lui en faisant perdre. Chacun essaie donc d’accumuler les cartes dans trois couleurs, et d’éviter d’en prendre dans les autres - mais ce n’est pas
+si simple.
+63 cartes couleur (9 cartes de '7 couleurs différentes)
+3 jokers
+10 cartes « +2 »
+1 carte « dernière manche »
+5 cartes « rangée » beiges
+3 cartes « rangée » vertes
+5 cartes d’aides de jeu, recto-verso
+3 joueurs
+4 joueurs
+5 joueurs
+  Note : Les cartes « rangée » vertes ne sont utilisées qu’à 2 joueurs.
+
+À 3 joueurs, retirez du jeu toutes les cartes d’une couleur quelconque.
+La carte « dernière manche » est retirée du jeu et mise de côté.
+Chaque joueur prend une carte d’une couleur, qui doit être différente pour chacun, et la place, face visible, devant lui.
+         
+Il ne peut y avoir, au maximum, que 3 cartes à côté d'une cartes « rangée »; chaque carte devant rester visible. Un joueur ne peut plus ajouter de carte à côté d'une carte "rangée" ou se trouve déjà 3 cartes.
+Lorsqu’il y a trois cartes devant chacune des cartes « rangée », le joueur dont c’est le tour ne peut plus choisir cette action et doit obligatoirement prendre une rangée de cartes.
+B. Prendre une rangée de cartes
+Le joueur prend l’une des cartes « rangée », ainsi que toutes les cartes se trouvant à côté d'elle, et les pose, faces visibles, devant lui, triées par couleur.
+Si un joueur prend un joker, il le met de côté. Il ne choisira en effet la couleur qu’il lui donne qu’à la fin de la partie.
+On ne peut pas prendre une rangée dans laquelle ne se trouve que la carte rangée, sans aucune autre carte à côté d'elle.
+Un joueur qui a pris une rangée ne participe plus à la manche. Son tour est sauté jusqu’au début de la manche suivante.
+Afin de le signaler clairement à tous, il garde devant lui, jusqu’à la fin de la manche, la carte « rangée » qu’il a prise.
+Fin de la manche
+La manche se termine lorsque tous les joueurs ont pris une rangée de cartes.
+Les cartes « rangée » sont remises au centre de la table, et une nouvelle manche commence. L'Oya pour cette nouvelle manche est celui qui a pris la dernière rangée de la manche précédente.
+
+
+
+FIN DU JEU ET SCORE
+
+Lorsque la carte « dernière manche » est piochée, elle indique que la manche en cours est la dernière. Le joueur qui la pioche la met de côté, bien visible, et en pioche une autre pour la remplacer.
+À la fin de la manche, chaque joueur décide quelle sera la couleur de chacun de ses jokers.
+Un joueur peut attribuer des couleurs différentes à ses jokers.
+Chacun compte ensuite le nombre de cartes qu’il a dans chaque couleur. Le tableau indique combien de points en plus ou en moins rapporte chaque couleur, en fonction du nombre de cartes de cette couleur.
+Au delà de 6 cartes d’une couleur, un joueur marque comme s'il avait 6 cartes de cette couleur.
+Chaque joueur choisit 3 de ses couleurs, dont il compte les points en positif. Les points de ses autres couleurs sont comptés en négatif, c’est à dire ôtés de son score.
+Chaque carte « +2 » rapporte 2 points.
+Exemple (côté beige): André a 1 joker, 1 « +2 », 6 cartes vertes, 4 cartes jaunes, 3 cartes rouges et 2 cartes bleues. Comme il marque déjà le maximum pour ses cartes vertes, il décide que ses jokers sont jaunes. Il marque donc :
+2 (« +2 ») + 21 (vert) + 15 (jaune) + 6 (rouge) - 3 (bleu) = 41 points.
+Après 1, 2 ou 3 parties, le jouer qui a le score total le plus élevé est le vainqueur.
+
+
+COLORETTO À DEUX JOUEURS
+
+À 2 joueurs, les règles sont modifiées comme suit :
+Avant le début de la partie, retirez du jeu toutes les cartes de deux couleurs quelconques.
+Avant le premier tour, chacun reçoit 2 cartes de deux couleurs différentes.
+Utilisez les cartes « rangée » vertes et non les beiges.
+Le nombre de cartes pouvant être placées dans une rangée est indiqué sur la carte « rangée » correspondante.
+Lorsque les deux joueurs ont pris chacun une rangée, toutes les cartes de la troisième rangée sont retirées du jeu.
+Auteur &amp; Illustrateur: Michael Schacht
+© 2006 ABACUSSPIELE Verlags GmbH &amp; Co. KG, Dreieich
+Tous droits réservés. Fabriqué en Allemagne. www.abacusspiele.de
+      
+</value>
+  </data>
+</root>
